@@ -2,11 +2,11 @@
 
 # Webpage for Image Processing with Python Workshop on 19/02/2024-20/02/2024
 
-A [webpage](https://bear-rsg.github.io/2024-02-19-Birmingham/) for the [Image Processing with Python lesson](https://github.com/bear-rsg/image-processing/edit/main/README.md) teaching foundational image processing skills with Python and [scikit-image](https://scikit-image.org/). Hosted by [Advanced Research Computing](https://www.birmingham.ac.uk/university/colleges/professional/it/research-computing.aspx) at the University of Birmingham.  
+A [webpage](https://bear-rsg.github.io/2024-02-19-Birmingham/) for the [Image Processing with Python lesson](https://bear-rsg.github.io/image-processing/) teaching foundational image processing skills with Python and [scikit-image](https://scikit-image.org/). Hosted by [Advanced Research Computing](https://www.birmingham.ac.uk/university/colleges/professional/it/research-computing.aspx) at the University of Birmingham.  
 
 ## Lesson Content
 
-This lesson content, which can be found the workshop [site](https://github.com/bear-rsg/image-processing/edit/main/README.md), introduces fundamental concepts in image handling and processing. Learners will gain the skills needed to load images into Python, to select, summarise, and modify specific regions in these image, and to identify and extract objects within an image for further analysis.
+This lesson content, which can be found the workshop [site](https://bear-rsg.github.io/image-processing/), introduces fundamental concepts in image handling and processing. Learners will gain the skills needed to load images into Python, to select, summarise, and modify specific regions in these image, and to identify and extract objects within an image for further analysis.
 
 ## Multidimensional Data Episode
 
