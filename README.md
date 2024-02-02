@@ -2,7 +2,7 @@
 
 # Webpage for Image Processing with Python Workshop on 19/02/2024-20/02/2024
 
-A [lesson](https://github.com/bear-rsg/image-processing/edit/main/README.md) teaching foundational image processing skills with Python and [scikit-image](https://scikit-image.org/). Hosted by Advanced Research Computing at the University of Birmingham.  
+A [lesson](https://github.com/bear-rsg/image-processing/edit/main/README.md) teaching foundational image processing skills with Python and [scikit-image](https://scikit-image.org/). Hosted by [Advanced Research Computing](https://www.birmingham.ac.uk/university/colleges/professional/it/research-computing.aspx) at the University of Birmingham.  
 
 ## Lesson Content
 
